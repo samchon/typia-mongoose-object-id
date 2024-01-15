@@ -1,6 +1,7 @@
 import { ObjectId } from "mongoose";
 import { metadata } from "typia/lib/reflect";
 import fs from "fs";
+import typia from "typia";
 
 fs.writeFileSync(
   __dirname + "/../ObjectId.json",
@@ -11,3 +12,5 @@ fs.writeFileSync(
   ),
   'utf8',
 );
+
+typia.createIs<ObjectId>();
