@@ -1,0 +1,21 @@
+{
+  "name": "typia-mongoose-object-id",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node bin", 
+    "prepare": "ts-patch install && typia patch",
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.0.4",
+    "typia": "^5.3.10"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "ts-patch": "^3.1.2",
+    "typescript": "^5.3.2"
+  }
+}
