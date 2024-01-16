@@ -1,0 +1,121 @@
+- `'mongoose'.Schema.Types.ObjectId`
+- `Record<string, any>`
+- `'mongoose'.SchemaTypeOptions<any, any>`
+- `Function`
+- `RegExp`
+- `'mongoose'.ValidateOpts<any>`
+- `'mongoose'.ValidatorMessageFn`
+- `'mongoose'.ValidateFn<any>`
+- `'mongoose'.LegacyAsyncValidateFn<any>`
+- `'mongoose'.AsyncValidateFn<any>`
+- `Model<any, __type, __type, __type, any, any>`
+- `"mongoose"`
+- `'mongoose'.Collection<Document>`
+- `'mongoose'.Connection`
+- `__type`
+- `Db`
+- `Readonly<__type>`
+- `"events".global.NodeJS.EventEmitter`
+- `__type.o1`
+- `'mongoose'.Schema<any, Model<any, any, any, any, any, any>, __type, __type, __type, __type, 'mongoose'.DefaultSchemaOptions, __type, Document<unknown, {}, FlatRecord<{ [x: string]: any; }>> & FlatRecord<{ [x: string]: any; }> & Required<{ _id: unknown; }>>`
+- `__type.o2`
+- `__type.o3`
+- `AddThisParameter<{}, Document<unknown, {}, FlatRecord<{ [x: string]: any; }>> & FlatRecord<{ [x: string]: any; }> & Required<{ _id: unknown; }>> & AnyObject`
+- `__type.o4`
+- `'mongoose'.SchemaType`
+- `'mongoose'.SchemaType<any, any>`
+- `'mongoose'.AnyObject`
+- `'mongoose'.Validator`
+- `'mongoose'.Schema.Types.Mixed`
+- `'mongoose'.Schema.Types.Mixed.o1`
+- `'mongoose'.Schema<any, any, any, __type, __type, __type, 'mongoose'.DefaultSchemaOptions, __type, Document<unknown, {}, FlatRecord<{ [x: string]: any; }>> & FlatRecord<{ [x: string]: any; }> & Required<{ _id: unknown; }>>`
+- `__type.o5`
+- `__type.o6`
+- `AddThisParameter<any, Document<unknown, {}, FlatRecord<{ [x: string]: any; }>> & FlatRecord<{ [x: string]: any; }> & Required<{ _id: unknown; }>> & AnyObject`
+- `__type.o7`
+- `StringConstructor`
+- `'mongoose'.Schema.Types.String`
+- `'mongoose'.Schema.Types.String.o1`
+- `NumberConstructor`
+- `'mongoose'.Schema.Types.Number`
+- `'mongoose'.Schema.Types.Number.o1`
+- `BooleanConstructor`
+- `'mongoose'.Schema.Types.Boolean`
+- `'mongoose'.Schema.Types.Boolean.o1`
+- `NativeDate`
+- `NativeDate.o1`
+- `'mongoose'.Schema.Types.Date`
+- `'mongoose'.Schema.Types.Date.o1`
+- `'mongoose'.Schema<any, any, any, __type, __type, __type, 'mongoose'.DefaultSchemaOptions, __type, Document<unknown, {}, FlatRecord<{ [x: string]: any; }>> & FlatRecord<{ [x: string]: any; }> & Required<{ _id: unknown; }>>.o1`
+- `__type.o8`
+- `__type.o9`
+- `__type.o10`
+- `__type.o11`
+- `{} & { [name: string]: (this: any, ...args: any[]) => unknown; }`
+- `'mongoose'.MixedSchemaTypeOptions<any>`
+- `'mongoose'.ValidateOpts<'mongoose'.Schema.Types.Mixed>`
+- `'mongoose'.ValidateFn<'mongoose'.Schema.Types.Mixed>`
+- `'mongoose'.LegacyAsyncValidateFn<'mongoose'.Schema.Types.Mixed>`
+- `'mongoose'.AsyncValidateFn<'mongoose'.Schema.Types.Mixed>`
+- `'mongoose'.IndexOptions`
+- `Record<string, number>`
+- `Document`
+- `ReadConcern`
+- `__type.o12`
+- `CollationOptions`
+- `ClientSession`
+- `MongoOptions`
+- `HostAddress`
+- `MongoCredentials`
+- `AuthMechanismProperties`
+- `ReadPreference`
+- `TagSet`
+- `HedgeOptions`
+- `ServerApi`
+- `WriteConcern`
+- `ClientMetadata`
+- `__type.o13`
+- `__type.o14`
+- `__type.o15`
+- `__type.o16`
+- `Int32`
+- `AutoEncryptionOptions`
+- `MongoClient`
+- `__type.o17`
+- `Record<string, never>`
+- `__type.o18`
+- `__type.o19`
+- `"buffer".global.Buffer`
+- `__type.o20`
+- `__type.o21`
+- `__type.o22`
+- `__type.o23`
+- `__type.o24`
+- `__type.o25`
+- `__type.o26`
+- `__type.o27`
+- `ProxyOptions`
+- `CSFLEKMSTlsOptions`
+- `ClientEncryptionTlsOptions`
+- `DriverInfo`
+- `PkFactory`
+- `"tls".KeyObject`
+- `"tls".PxfObject`
+- `"tls".SecureContext`
+- `__type.o28`
+- `ClusterTime`
+- `Timestamp`
+- `__type.o29`
+- `__type.o30`
+- `Binary`
+- `Long`
+- `TransactionOptions`
+- `Transaction`
+- `__type.o31`
+- `__type.o32`
+- `'mongoose'.SchemaTypeOptions<any, any>.o1`
+- `__type.o33`
+- `{} & { [name: string]: (this: any, ...args: any[]) => unknown; }.o1`
+- `'mongoose'.SchemaTypeOptions<any, any>.o2`
+- `__type.o34`
+- `{} & { [name: string]: (this: Model<any, any, any, any, any, any>, ...args: any[]) => unknown; }`
